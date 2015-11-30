@@ -89,10 +89,10 @@ body {font:12px Arial, Helvetica, sans-serif;color:#000;background:#002380;line-
 .box_razd {width:14px;height:50px;float:left}
 .box_img2 h1 {font-family:Arial, Helvetica, sans-serif;font-size:24px;font-weight:100;color:#002380;text-align:left;padding:8px 0px 3px 0px}
 .rol_over:hover {background:url(images/rol_over_galery.png) left top no-repeat}
-.g_size {width:298px;height:123px;display:block}
-.g1 {background:url(images/img31.jpg) left top no-repeat} 
-.g2 {background:url(images/img32.jpg) left top no-repeat}
-.g3 {background:url(images/img33.jpg) left top no-repeat}
+.g_size {width:298px;height:190px;display:block}
+.g1 {background:url(images/soapPinkBg.png) center center no-repeat}
+.g2 {background:url(images/soapBigCoffeeBg.png) center center no-repeat}
+.g3 {background:url(images/soapBlackBg.png) center center no-repeat}
 .g4 {background:url(images/img34.jpg) left top no-repeat}
 .g5 {background:url(images/img35.jpg) left top no-repeat}
 .g6 {background:url(images/img36.jpg) left top no-repeat}
@@ -122,7 +122,7 @@ noscript div {background:#ccc;border:1px solid #900;margin:20px 0;padding:15px }
 /* Use this to keep the slider content contained in a box even when JavaScript is disabled */
 .coda-slider-no-js .coda-slider {height:308px;overflow:hidden !important;padding-right:20px }
 /* Change the width of the entire slider (without dynamic arrows) */
-.coda-slider, .coda-slider .panel {width:1010px } 
+.coda-slider, .coda-slider .panel {width:1010px }
 /* Change margin and width of the slider (with dynamic arrows) */
 .coda-slider-wrapper.arrows .coda-slider, .coda-slider-wrapper.arrows .coda-slider .panel {width:970px }
 .coda-slider-wrapper.arrows .coda-slider {margin:0px }
