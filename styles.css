@@ -4,9 +4,9 @@ body {font:12px Arial, Helvetica, sans-serif;color:#000;background:#002380;line-
 .inner_copy, .inner_copy a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 #main {width:1014px;margin:0px auto;background:url(images/main.jpg) right top no-repeat}
 #header {width:1010px;height:204px}
-#logo {height:97px;padding:44px 0px 0px 7px}
+#logo {height:60px;padding:44px 0px 0px 7px}
 #logo H2 {font-family:Arial, Helvetica, sans-serif;color:#fff;font-size:18px;font-style:italic}
-#logo a {text-decoration:none;text-transform:lowercase;font-style:italic;font-size:16px;color:#fff}
+#logo a {text-decoration:none;font-family: 'Lobster',cursive;font-size:40px;color:#fff; word-spacing: 0.5em;}
 #logo H2 a {font-size:12px;font-family:Arial, Helvetica, sans-serif;font-weight:100}
 #buttons {text-align:center;height:48px;margin-left:0;padding-left:0;background:url(images/but_bg.png) left top no-repeat}
 #buttons a {font-family:Arial, Helvetica, sans-serif;font-size:18px;display:block;float:left;text-decoration:none;color:#fff;text-align:center;padding-top:14px;height:34px}
@@ -93,12 +93,12 @@ body {font:12px Arial, Helvetica, sans-serif;color:#000;background:#002380;line-
 .g1 {background:url(images/soapPinkBg.png) center center no-repeat}
 .g2 {background:url(images/soapBigCoffeeBg.png) center center no-repeat}
 .g3 {background:url(images/soapBlackBg.png) center center no-repeat}
-.g4 {background:url(images/img34.jpg) left top no-repeat}
-.g5 {background:url(images/img35.jpg) left top no-repeat}
-.g6 {background:url(images/img36.jpg) left top no-repeat}
-.g7 {background:url(images/img37.jpg) left top no-repeat}
-.g8 {background:url(images/img38.jpg) left top no-repeat}
-.g9 {background:url(images/img39.jpg) left top no-repeat}
+.g4 {background:url(images/soapCoffeeBg.png) center center no-repeat}
+.g5 {background:url(images/soapPhoneBg.png) center center no-repeat}
+.g6 {background:url(images/soapBottlesBg.png) center center no-repeat}
+.g7 {background:url(images/soapHeartBg.png) center center no-repeat}
+.g8 {background:url(images/soapCreamBg.png) center center no-repeat}
+.g9 {background:url(images/soapRoseBg.png) center center no-repeat}
 .pirobox_gal1 {width:298px;height:123px;display:block}
 .pirobox_gal1:hover {width:298px;height:123px;display:block;background:url(images/rol_over_galery.png) left top no-repeat}
 /* index3 */
