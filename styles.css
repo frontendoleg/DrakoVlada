@@ -1,6 +1,6 @@
 * {border:0;margin:0}
 img {border:0}
-body {font:12px Arial, Helvetica, sans-serif;color:#000;background:#002380;line-height:20px}
+body {font:16px Arial, Helvetica, sans-serif;color:#000;background:#002380;line-height:20px}
 .inner_copy, .inner_copy a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 #main {width:1014px;margin:0px auto;background:url(images/main.jpg) right top no-repeat}
 #header {width:1010px;height:204px}
@@ -87,7 +87,7 @@ body {font:12px Arial, Helvetica, sans-serif;color:#000;background:#002380;line-
 .row {padding:0px 0px 0px 16px;height:235px;width:999px}
 .box_img2 {width:308px;height:225px;background:url(images/img_bg_ind3.png) 0px 0px no-repeat;padding:10px 0px 0px 10px;float:left}
 .box_razd {width:14px;height:50px;float:left}
-.box_img2 h1 {font-family:Arial, Helvetica, sans-serif;font-size:24px;font-weight:100;color:#002380;text-align:left;padding:8px 0px 3px 0px}
+.box_img2 h1 {font-family:Arial, Helvetica, sans-serif;font-size:20px;font-weight:100;color:#002380;text-align:left;padding:8px 0px 3px 0px}
 .rol_over:hover {background:url(images/rol_over_galery.png) left top no-repeat}
 .g_size {width:298px;height:190px;display:block}
 .g1 {background:url(images/soapPinkBg.png) center center no-repeat}
